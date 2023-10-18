@@ -1,2 +1,2 @@
 # NotesApplicationMVVM
-Notes application with best practices
+Notes application with best practices by Mazhar ali
